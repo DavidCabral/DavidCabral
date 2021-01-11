@@ -1,6 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/Hi.gif?raw=true" width="30px">
 
-<img align = 'right' src="https://github.com/DavidCabral/DavidCabral/blob/master/assets/eu.svg" alt="David Cabral" width="180" height="180">
+<img align = 'right' src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/eu.svg" alt="David Cabral" width="180" height="180">
 
 
 ### Skills/Interests
