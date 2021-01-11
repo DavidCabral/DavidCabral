@@ -1,19 +1,13 @@
 ### Hello World <img src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/Hi.gif?raw=true" width="30px">
 
-<img align = 'right' src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/eu.svg" alt="David Cabral" width="250" height="250">
+<img align = 'right' src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/eu.svg" alt="David Cabral" width="450" height="450">
 
 
 ### Skills/Interests
 
 **Languages**
 
-<a href="https://www.python.org/">
-  <img
-    alt="Python"
-    height="40"
-    width="40"
-    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-</a>
+
 <a href="https://www.java.com/en/">
   <img
     alt="Java"
