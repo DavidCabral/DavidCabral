@@ -80,7 +80,7 @@
     alt="Intellij"
     height="40"
     width="40"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/intellij-plain.svg" />
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/intellij-original.svg" />
 </a>
 <a href="atom.io">
   <img 
