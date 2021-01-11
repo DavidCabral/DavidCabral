@@ -75,6 +75,13 @@
     width="40"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/visualstudio-plain.svg" />
 </a>
+<a href="#">
+  <img 
+    alt="Intellij"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/intellij-plain.svg" />
+</a>
 <a href="atom.io">
   <img 
     alt="Atom"
@@ -103,6 +110,13 @@
     width="40"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/trello-plain.svg" />
 </a>
+<a href="">
+  <img 
+    alt="Jenkins"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/jenkins-original.svg" />
+</a>
 
 
 **Version Control**
@@ -121,6 +135,15 @@
     width="40"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/github-original.svg" />
 </a>
+
+<a href="">
+  <img
+    alt="SVN"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/svn.png" />
+</a>
+
 
 
 **Containerization & Container Orchestration**
@@ -187,9 +210,9 @@
 **Frameworks**
 
 
-<a href="https://reactjs.org/">
+<a href="#">
   <img
-    alt="React"
+    alt="Angular"
     height="40"
     width="40"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/angularjs-original.svg" />
@@ -201,6 +224,41 @@
     height="40"
     width="40"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/react-original.svg" />
+</a>
+
+<a href="#">
+  <img
+    alt="Spring"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/spring.svg" />
+</a>
+
+<a href="#">
+  <img
+    alt="Jasper"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/tibco-icon.svg" />
+</a>
+
+**Games 😄**
+
+
+<a href="#">
+  <img
+    alt="Dota2"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/dota-2.svg" />
+</a>
+
+<a href="#">
+  <img
+    alt="CS"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/counter-strike.svg" />
 </a>
 
 <br>
