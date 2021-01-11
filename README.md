@@ -1,12 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/Hi.gif?raw=true" width="30px">
 
-<img align = 'right' src="https://github.com/DavidCabral/DavidCabral/blob/master/assets/eu.svg" alt="Shree Vatsa N" width="180" height="180">
-
-<p float='left'> I'm Shree Vatsa, an Indian aspiring software developer who loves to create new things and explore new technologies. I'm currently a  Computer Science undergraduate student at Atria. I love to contribute to FOSS projects impacting for a better tech-world.</p>
-<p>Currently working on <a href="https://www.github.com/kadalu/kadalu">Kadalu</a>, <a href="https://github.com/gluster/glusterfs">Gluster</a> and bunch of other side projects. </p>
-
-
-
+<img align = 'right' src="https://github.com/DavidCabral/DavidCabral/blob/master/assets/eu.svg" alt="David Cabral" width="180" height="180">
 
 
 ### Skills/Interests
