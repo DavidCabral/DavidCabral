@@ -11,57 +11,60 @@
 <a href="https://www.java.com/en/">
   <img
     alt="Java"
-    height="40"
-    width="40"
+    height="20"
+    title="Java"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/languages/java-original.svg" />
 </a>
 <a href="https://www.java.com/en/">
   <img
     alt="Android"
-    height="40"
-    width="40"
+    title="Android"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/android-original.svg" />
 </a>
-<a href="https://www.java.com/en/">
+<a href="#">
   <img
     alt="kotlin"
-    height="40"
-    width="40"
+    title="Kotlin"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/kotlin-original.svg?raw=true?sanitize=true" />
 </a>
 <a href="https://www.java.com/en/">
   <img
-    alt="typescript"
-    height="40"
-    width="40"
+    title="typescript"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/typescript-original.svg?raw=true?sanitize=true" />
 </a>
 <a href="https://www.cprogramming.com/">
   <img
     alt="C"
-    height="40"
-    width="40"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/c-original.svg?raw=true?sanitize=true" />
 </a>
 <a href="https://www.javascript.com/">
   <img
-    alt="JavaScript"
-    height="40"
-    width="40"
+    title="JavaScript"
+    height="20"
+    width="20"
      src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/javascript-original.svg?raw=true?sanitize=true" />
 </a>
 <a href="https://w3.org/">
   <img
-    alt="Dart"
-    height="40"
-    width="40"
+    title="html"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/html5-original.svg" />
 </a>
 <a href="https://w3.org/">
   <img
-    alt="CSS"
-    height="40"
-    width="40"
+    title="CSS"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/css3.svg" />
 </a>
 
@@ -70,51 +73,51 @@
 
 <a href="code.visualstudio.com/">
   <img 
-    alt="VS Code"
-    height="40"
-    width="40"
+    title="VS Code"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/visualstudio-plain.svg" />
 </a>
 <a href="#">
   <img 
-    alt="Intellij"
-    height="40"
-    width="40"
+    title="Intellij"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/intellij-original.svg" />
 </a>
 <a href="atom.io">
   <img 
-    alt="Atom"
-    height="40"
-    width="40"
+    title="Atom"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/atom-original.svg" />
 </a>
 <a href="https://ubuntu.com">
   <img 
-    alt="Ubuntu"
-    height="40"
-    width="40"
+    title="Ubuntu"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/ubuntu-plain.svg" />
 </a>
 <a href="https://slack.com">
   <img 
-    alt="Slack"
-    height="40"
-    width="40"
+    title="Slack"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/slack-original.svg" />
 </a>
   <a href="https://trello.com">
   <img 
-    alt="Trello"
-    height="40"
-    width="40"
+    title="Trello"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/trello-plain.svg" />
 </a>
 <a href="">
   <img 
-    alt="Jenkins"
-    height="40"
-    width="40"
+    title="Jenkins"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/jenkins-original.svg" />
 </a>
 
@@ -123,24 +126,24 @@
 
 <a href="https://git-scm.com">
   <img
-    alt="Git"
-    height="40"
-    width="40"
+    title="Git"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/git-original.svg" />
 </a>
 <a href="https://github.com">
   <img
-    alt="Github"
-    height="40"
-    width="40"
+    title="Github"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/github-original.svg" />
 </a>
 
 <a href="">
   <img
-    alt="SVN"
-    height="40"
-    width="40"
+    title="SVN"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/svn.png" />
 </a>
 
@@ -150,16 +153,16 @@
 
 <a href="https://hub.docker.com/">
   <img 
-    alt="Docker"
-    height="40"
-    width="40"
+    title="Docker"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/docker-original.svg" />
 </a>
 <a href="https://kubernetes.io/">
   <img 
-    alt="Kubernetes"
-    height="40"
-    width="40"
+    title="Kubernetes"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/kubernetes-icon.svg" />
 </a>
 
@@ -168,41 +171,41 @@
 
 <a href="https://mysql.com/">
   <img 
-    alt="MySql"
-    height="40"
-    width="40"
+    title="MySql"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/mysql-original.svg" />
 </a>
 
 <a href="#">
   <img 
-    alt="postgres"
-    height="40"
-    width="40"
+    title="postgres"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/postgresql.svg" />
 </a>
 
 <a href="#">
   <img 
-    alt="oracle"
-    height="40"
-    width="40"
+    title="oracle"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/oracle-original.svg" />
 </a>
 
 <a href="#">
   <img 
-    alt="mongodb"
-    height="40"
-    width="40"
+    title="mongodb"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/mongodb-original.svg" />
 </a>
 
 <a href="#">
   <img 
-    alt="firebird"
-    height="40"
-    width="40"
+    title="firebird"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/firebird.svg" />
 </a>
 
@@ -212,33 +215,33 @@
 
 <a href="#">
   <img
-    alt="Angular"
-    height="40"
-    width="40"
+    title="Angular"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/angularjs-original.svg" />
 </a>
 
 <a href="https://reactjs.org/">
   <img
-    alt="React"
-    height="40"
-    width="40"
+    title="React"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/react-original.svg" />
 </a>
 
 <a href="#">
   <img
-    alt="Spring"
-    height="40"
-    width="40"
+    title="Spring"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/spring.svg" />
 </a>
 
 <a href="#">
   <img
-    alt="Jasper"
-    height="40"
-    width="40"
+    title="Jasper Report"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/tibco-icon.svg" />
 </a>
 
@@ -247,17 +250,17 @@
 
 <a href="#">
   <img
-    alt="Dota2"
-    height="40"
-    width="40"
+    title="Dota2"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/dota-2.svg" />
 </a>
 
 <a href="#">
   <img
-    alt="CS"
-    height="40"
-    width="40"
+    title="CS"
+    height="20"
+    width="20"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/counter-strike.svg" />
 </a>
 
@@ -274,19 +277,4 @@
  
 </p>
 
-
-
-<!--
-**DavidCabral/DavidCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
