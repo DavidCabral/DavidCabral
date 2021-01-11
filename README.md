@@ -94,7 +94,7 @@
     alt="Ubuntu"
     height="40"
     width="40"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/ubuntu-plain.svg" />
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/ubuntu-plain.svg" />
 </a>
 <a href="https://slack.com">
   <img 
