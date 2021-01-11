@@ -13,7 +13,28 @@
     alt="Java"
     height="40"
     width="40"
-    src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" />
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/java-original.svg?raw=true?sanitize=true" />
+</a>
+<a href="https://www.java.com/en/">
+  <img
+    alt="Android"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/android-original.svg?raw=true?sanitize=true" />
+</a>
+<a href="https://www.java.com/en/">
+  <img
+    alt="kotlin"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/kotlin-original.svg?raw=true?sanitize=true" />
+</a>
+<a href="https://www.java.com/en/">
+  <img
+    alt="typescript"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/typescript-original.svg?raw=true?sanitize=true" />
 </a>
 <a href="https://www.cprogramming.com/">
   <img
@@ -22,19 +43,12 @@
     width="40"
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/c-original.svg?raw=true?sanitize=true" />
 </a>
-<a href="https://www.php.net">
-  <img
-    alt="PHP"
-    height="40"
-    width="40"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/php-original.svg" />
-</a>
 <a href="https://www.javascript.com/">
   <img
     alt="JavaScript"
     height="40"
     width="40"
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/javascript-original.svg?raw=true?sanitize=true" />
 </a>
 <a href="https://w3.org/">
   <img
@@ -139,6 +153,15 @@
 
 
 **Frameworks**
+
+
+<a href="https://reactjs.org/">
+  <img
+    alt="React"
+    height="40"
+    width="40"
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/angularjs-original.svg" />
+</a>
 
 <a href="https://reactjs.org/">
   <img
