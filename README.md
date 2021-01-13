@@ -125,14 +125,14 @@
     title="Inkscape"
     height="30"
     width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/inkscape.svg" />
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/Inkscape.svg" />
 </a>
 <a href="">
   <img 
     title="Illustrator"
     height="30"
     width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/illustrator.svg" />
+    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/illustrator.svg" />
 </a>
 
 
