@@ -280,15 +280,16 @@
 
 <br>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-nu-six.vercel.app/api/spotify)](https://open.spotify.com/user/22yhttx6hn6fsvvrrq5tkvo3q)
+
+
 <hr>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=DavidCabral&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabral&theme=dark">
 </p>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-nu-six.vercel.app/api/spotify)](https://open.spotify.com/user/22yhttx6hn6fsvvrrq5tkvo3q)
 
 <hr>
 <p align="center">
