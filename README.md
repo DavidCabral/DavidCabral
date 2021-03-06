@@ -286,6 +286,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabral&theme=dark">
 </p>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-nu-six.vercel.app/api/spotify)](https://open.spotify.com/user/22yhttx6hn6fsvvrrq5tkvo3q)
+
 <hr>
 <p align="center">
  
