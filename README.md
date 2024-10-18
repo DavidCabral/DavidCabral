@@ -1,8 +1,3 @@
-### Hello World <img src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/Hi.gif?raw=true" width="30px">
-
-<img align = 'right' src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/eu.svg" alt="David Cabral" width="450" height="450">
-
-
 ### Skills/Interests
 
 **Languages**
@@ -259,25 +254,6 @@
     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/tibco-icon.svg" />
 </a>
 
-**Games 😄**
-
-
-<a href="#">
-  <img
-    title="Dota2"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/dota-2.svg" />
-</a>
-
-<a href="#">
-  <img
-    title="CS"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/counter-strike.svg" />
-</a>
-
 <br>
 
 ### Spotify Playing 🎧
@@ -286,10 +262,8 @@
 
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidCabral&show_icons=true&theme=dark&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabral&theme=dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidCabral&theme=dark" alt="GitHub Streak Stats">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidCabral&theme=darkhub">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabral&theme=dark">  
 </p>
 
 
