@@ -22,6 +22,8 @@ My journey in tech has been nothing short of an adventure, pushing me to learn, 
   - **Java**: My forte in crafting scalable and efficient applications.
   - **Kotlin**: Making Android development more concise and fun.
   - **Spring Boot**: For rapid and reliable enterprise-grade applications.
+  - **JDBC** & **Hibernate**: Mastering data persistence with robust ORM and database connectivity.
+  - **Room**: Handling local data persistence on Android seamlessly.
   - **Jasper Reports**: Creating custom reports and dynamic documentation.
 - **Frontend**:
   - **JavaScript** & **TypeScript**: Building the backbone of interactive web applications.
@@ -35,11 +37,6 @@ My journey in tech has been nothing short of an adventure, pushing me to learn, 
 I’m experienced in a broad array of database technologies, always ensuring data integrity and efficiency:
 - **Relational DBs**: Oracle, PostgreSQL, SQL Server, MySQL, SQLite
 - **Firebird & MariaDB**: Leveraging these specialized DBs for custom solutions
-
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidCabral&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 ## 💼 **Professional Highlights**
 - **15+ Years of Experience** in software development across various sectors.
@@ -55,5 +52,13 @@ Tech is constantly evolving, and so am I! I’m currently diving deeper into:
 ## 📬 **Let’s Connect!**
 If you’d like to collaborate, share ideas, or simply say hello, feel free to reach out! I'm always excited to work on innovative projects and connect with like-minded professionals.
 
----
+
+## 📊 **GitHub Stats**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabral&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidCabral&theme=tokyonight)
+
+
+
 
