@@ -1,270 +1,59 @@
-### Skills/Interests
+---
 
-**Languages**
+# 👨‍💻 **Welcome to My GitHub Profile!**
 
+Hello! I’m a seasoned programmer with over 15 years of hands-on experience in the technology field. From designing robust backends to crafting responsive frontends, I’ve had the privilege to develop a comprehensive skill set that spans multiple languages, frameworks, and databases.
 
-<a href="https://www.java.com/en/">
-  <img
-    alt="Java"
-    height="30"
-    title="Java"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/languages/java-original.svg" />
-</a>
-<a href="https://www.java.com/en/">
-  <img
-    alt="Android"
-    title="Android"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/android-original.svg" />
-</a>
-<a href="#">
-  <img
-    alt="kotlin"
-    title="Kotlin"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/kotlin-original.svg?raw=true?sanitize=true" />
-</a>
-<a href="https://www.java.com/en/">
-  <img
-    title="typescript"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/typescript-original.svg?raw=true?sanitize=true" />
-</a>
-<a href="https://www.cprogramming.com/">
-  <img
-    alt="C"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/c-original.svg?raw=true?sanitize=true" />
-</a>
-<a href="https://www.javascript.com/">
-  <img
-    title="JavaScript"
-    height="30"
-    width="30"
-     src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/javascript-original.svg?raw=true?sanitize=true" />
-</a>
-<a href="https://w3.org/">
-  <img
-    title="html"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/html5-original.svg" />
-</a>
-<a href="https://w3.org/">
-  <img
-    title="CSS"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/languages/css3.svg" />
-</a>
+## 🌟 **Who Am I?**
 
+- **💼 Role**: Full-Stack Developer / Software Engineer
+- **📍 Location**: Anywhere there's a good Wi-Fi signal! 🌎
+- **👨‍🎓 Education**:
+  - **Technical Degree** in Computer Network Systems
+  - **Bachelor's Degree** in Information Systems
+  - **Post-Graduation** in Software Engineering
+  
+My journey in tech has been nothing short of an adventure, pushing me to learn, adapt, and thrive in various areas. From backend logic to frontend design, I've embraced each aspect of the development process with a passion for innovation.
 
-**Tools**
+## 🚀 **Technical Expertise**
 
-<a href="code.visualstudio.com/">
-  <img 
-    title="VS Code"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/visualstudio-plain.svg" />
-</a>
-<a href="#">
-  <img 
-    title="Intellij"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/intellij-original.svg" />
-</a>
-<a href="atom.io">
-  <img 
-    title="Atom"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/atom-original.svg" />
-</a>
-<a href="https://ubuntu.com">
-  <img 
-    title="Ubuntu"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/ubuntu-plain.svg" />
-</a>
-<a href="https://slack.com">
-  <img 
-    title="Slack"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/slack-original.svg" />
-</a>
-  <a href="https://trello.com">
-  <img 
-    title="Trello"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/trello-plain.svg" />
-</a>
-<a href="">
-  <img 
-    title="Jenkins"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/tools/jenkins-original.svg" />
-</a>
-<a href="">
-  <img 
-    title="Inkscape"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/Inkscape.svg" />
-</a>
-<a href="">
-  <img 
-    title="Illustrator"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/main/assets/tools/illustrator.svg" />
-</a>
+### 🖥 **Languages & Frameworks**
+- **Backend**:
+  - **Java**: My forte in crafting scalable and efficient applications.
+  - **Kotlin**: Making Android development more concise and fun.
+  - **Spring Boot**: For rapid and reliable enterprise-grade applications.
+  - **Jasper Reports**: Creating custom reports and dynamic documentation.
+- **Frontend**:
+  - **JavaScript** & **TypeScript**: Building the backbone of interactive web applications.
+  - **HTML & CSS**: Crafting beautiful and responsive designs.
+  - **React** & **Angular**: My go-to frameworks for delivering user-centric UIs.
+  - **JSF (JavaServer Faces)**: For complex web-based applications.
+- **Mobile**:
+  - **Android (Java)**: Bringing ideas to life on Android devices.
 
+### 🗄 **Databases**
+I’m experienced in a broad array of database technologies, always ensuring data integrity and efficiency:
+- **Relational DBs**: Oracle, PostgreSQL, SQL Server, MySQL, SQLite
+- **Firebird & MariaDB**: Leveraging these specialized DBs for custom solutions
 
-**Version Control**
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidCabral&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-<a href="https://git-scm.com">
-  <img
-    title="Git"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/git-original.svg" />
-</a>
-<a href="https://github.com">
-  <img
-    title="Github"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/github-original.svg" />
-</a>
+## 💼 **Professional Highlights**
+- **15+ Years of Experience** in software development across various sectors.
+- **Network Technician** - proficient in network infrastructure, providing a solid foundation for robust and secure development.
+- **Bachelor’s Degree in Information Systems** - strong technical foundation for designing and managing complex information systems.
+- **Software Engineering Postgraduate** - advanced insights into architecture, design patterns, and development best practices.
 
-<a href="">
-  <img
-    title="SVN"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/other/svn.png" />
-</a>
+## 🌱 **Learning Never Stops**
+Tech is constantly evolving, and so am I! I’m currently diving deeper into:
+- **Cloud Technologies**: Integrating scalable, cloud-based solutions.
+- **Machine Learning**: Building smarter applications with AI-driven insights.
 
+## 📬 **Let’s Connect!**
+If you’d like to collaborate, share ideas, or simply say hello, feel free to reach out! I'm always excited to work on innovative projects and connect with like-minded professionals.
 
-
-**Containerization & Container Orchestration**
-
-<a href="https://hub.docker.com/">
-  <img 
-    title="Docker"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/docker-original.svg" />
-</a>
-<a href="https://kubernetes.io/">
-  <img 
-    title="Kubernetes"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/kubernetes-icon.svg" />
-</a>
-
-
-**Database**
-
-<a href="https://mysql.com/">
-  <img 
-    title="MySql"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/mysql-original.svg" />
-</a>
-
-<a href="#">
-  <img 
-    title="postgres"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/postgresql.svg" />
-</a>
-
-<a href="#">
-  <img 
-    title="oracle"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/oracle-original.svg" />
-</a>
-
-<a href="#">
-  <img 
-    title="mongodb"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/mongodb-original.svg" />
-</a>
-
-<a href="#">
-  <img 
-    title="firebird"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/databases/firebird.svg" />
-</a>
-
-
-**Frameworks**
-
-
-<a href="#">
-  <img
-    title="Angular"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/angularjs-original.svg" />
-</a>
-
-<a href="https://reactjs.org/">
-  <img
-    title="React"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/react-original.svg" />
-</a>
-
-<a href="#">
-  <img
-    title="Spring"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/spring.svg" />
-</a>
-
-<a href="#">
-  <img
-    title="Jasper Report"
-    height="30"
-    width="30"
-    src="https://raw.githubusercontent.com/DavidCabral/DavidCabral/master/assets/frameworks/tibco-icon.svg" />
-</a>
-
-<br>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-nu-six.vercel.app/api/spotify)](https://open.spotify.com/user/22yhttx6hn6fsvvrrq5tkvo3q)
-
-<hr>
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabral&theme=dark">  
-</p>
-
-
+---
 
